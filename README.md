@@ -1,5 +1,6 @@
 # Flight-Fare-Prediction
 Link to the React app (By Neel):https://friendly-liskov-8cc988.netlify.app
+
 How app was built?
 1. A Tensorflow regression model was created that predicts flight price using input parameters
 2. Once good accuracy was achived our Tensorflow model was converted to TensorflowJS(TFJS) model to be used in ReactJS
