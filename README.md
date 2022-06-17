@@ -7,6 +7,7 @@ How app was built?
 3. Then this model was imported in react using async function
 4. Once imported a front model was built that takes inputs like departure and arrival date, stops, airlines, source and destination
 5. These inputs were forwarded to TFJS model and as a result the model returned the price as an output
+
 ***The React-App code lies in React branch, please go to React branch to view the code***
 
 Link to the Flask App: 
